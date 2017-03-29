@@ -12,6 +12,9 @@ The link below is to a class presentation I contributed to in 2017, looking at p
 
 <a href="Final_Presentation.html">141B Project</a> 
 
+### Movie Recommendations
+
+The link below is an analysis of movie data for 3,000 movies, as well as some attempts to predict what rating I will give a certain movie based on the movies I have already rated.
 
 <a href="bcl_244169881.htm">Movie Project</a> 
 
