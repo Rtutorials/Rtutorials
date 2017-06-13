@@ -16,7 +16,7 @@ The link below is to a class presentation I contributed to in 2017, looking at p
 
 The link below is a project I did that explored ways to make Support Vector Machines run faster, such as dimensionality reduction through Principal Components Analysis (PCA).
 
-<a href="STA141CProject.html">SVM Runtimes</a> 
+<a href="STA141CProject.htm">SVM Runtimes</a> 
 
 ### Movie Recommendations
 
