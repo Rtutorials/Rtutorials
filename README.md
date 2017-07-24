@@ -2,7 +2,7 @@
 
 To whom it may concern,
 
-I am UC Davis graduate who specializes in the intersection of data, geography, and the environment. I have been developing a skillset in R, Python, ArcGIS, and statistical modeling, and this page will be used to house projects both exploratory and educational.
+I am a UC Davis graduate who specializes in the intersection of data, geography, and the environment. I have been developing a skillset in R, Python, ArcGIS, and statistical modeling, and this page will be used to house projects both exploratory and educational.
 
 
 
