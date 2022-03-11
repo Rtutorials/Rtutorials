@@ -21,7 +21,7 @@ The following analysis is a simulation that attempts to answer this question: If
 
 ### "2017 Education Spending in the State of California"
 
-The link below is to a class presentation I contributed to in 2017, looking at public school construction projects. I hope you find it valuable. 
+The link below is to a class presentation I contributed to in 2017, looking at public school construction projects. I hope you find it valuable! 
 
 <a href="Final_Presentation.html">141B Project</a> 
 
