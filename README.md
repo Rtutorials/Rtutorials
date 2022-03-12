@@ -6,7 +6,7 @@ I am a young professional who specializes in the intersection of data science an
 
 ### Snowdown Showdown
 
-https://docs.google.com/document/d/15LZqhd_bFgoWQXQGnDIWc0bDzL_rTmtbkeCvMQ5iL6c/edit?usp=sharing
+<a href="Snowdown Showdown.pdf">141B Project</a> 
 
 A breakdown of a spatial/temporal model for predicting snowfall across the United States as part of the Driven Data competition.
 
