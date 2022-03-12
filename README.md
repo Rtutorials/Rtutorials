@@ -24,7 +24,6 @@ The link below is to a class presentation I contributed to in 2017, looking at p
 
 Our winning entry in the 2022 ITC Transportation hackathon, an app that alerts drivers when they doze off. Computer vision is used to detect when eyes in the image have stayed shut.
 
-https://github.com/Rtutorials/WakeApp-Backend
 <a href=https://github.com/Rtutorials/WakeApp-Backend>Github</a> 
 <a href=https://youtu.be/fTslVKN8JVU>Video</a> 
 
