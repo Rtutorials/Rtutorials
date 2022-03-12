@@ -6,13 +6,13 @@ I am a young professional who specializes in the intersection of data science an
 
 ### Snowdown Showdown
 
-<a href="Snowdown Showdown.pdf">141B Project</a> 
+<a href="Snowdown Showdown.pdf">Snowdown Showdown</a> 
 
 A breakdown of a spatial/temporal model for predicting snowfall across the United States as part of the Driven Data competition.
 
 ### "Lost at Six Flags"
 
-The following analysis is a simulation that attempts to answer this question: If you lose someone, is it better if both people search for each other or if one searches and the other stays still? The experiment, variable conditions, and results are presented here.
+Stay tuned! I'm currently working on an a simulation that attempts to answer this question: If you lose someone, is it better if both people search for each other or if one searches and the other stays still? The experiment, variable conditions, and results are presented here.
 
 ### "2017 Education Spending in the State of California"
 
