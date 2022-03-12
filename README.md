@@ -4,14 +4,9 @@ To whom it may concern,
 
 I am a young professional who specializes in the intersection of data science and geography. I have been developing skills in experiences in R, Python, ArcGIS, and statistical modeling, and this page will be used to house projects both exploratory and educational. My projects for consulting, government, and hi-tech are not public due to confidentiality reasons.
 
-### WakeApp
-
-
 ### Snowdown Showdown
 
-https://docs.google.com/presentation/d/18RWDmhPg-aHopo_0Lk4R3d3ZSuC4gPKOzgADeFWE0AY/edit?usp=sharing
-
-### "Masters of Time, Space, and Ice"
+https://docs.google.com/document/d/15LZqhd_bFgoWQXQGnDIWc0bDzL_rTmtbkeCvMQ5iL6c/edit?usp=sharing
 
 A breakdown of a spatial/temporal model for predicting snowfall across the United States as part of the Driven Data competition.
 
@@ -29,17 +24,8 @@ The link below is to a class presentation I contributed to in 2017, looking at p
 
 Our winning entry in the 2022 ITC Transportation hackathon, an app that alerts drivers when they doze off. Computer vision is used to detect when eyes in the image have stayed shut.
 
-### Reducing Runtimes for Support Vector Machines Digit Recognition 
-
-The link below is a project I did that explored ways to make Support Vector Machines run faster, such as dimensionality reduction through Principal Components Analysis (PCA).
-
-<a href="sta141cproj.htm">SVM Runtimes</a> 
-
-### Movie Recommendations
-
-The link below is an analysis of movie data for 3,000 movies, as well as some attempts to predict what rating I will give a certain movie based on the movies I have already rated.
-
-<a href="bcl_244169881.htm">Movie Project</a> 
+https://github.com/Rtutorials/WakeApp-Backend
+https://youtu.be/fTslVKN8JVU
 
 
 ### Support or Contact
