@@ -4,11 +4,11 @@ To whom it may concern,
 
 I am a young professional who specializes in the intersection of data science and geography. I have been developing skills in experiences in R, Python, ArcGIS, and statistical modeling, and this page will be used to house projects both exploratory and educational. My projects for consulting, government, and hi-tech are not public due to confidentiality reasons.
 
-### Snowdown Showdown
+### "Snowdown Showdown"
 
 <a href="Snowdown Showdown.pdf">Snowdown Showdown</a> 
 
-A breakdown of a spatial/temporal model for predicting snowfall across the United States as part of the Driven Data competition.
+A breakdown of a spatial/temporal model for predicting snowfall across the United States as part of the Snowcast Showdown Driven Data competition.
 
 ### "Lost at Six Flags"
 
