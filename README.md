@@ -14,8 +14,9 @@ A breakdown of a spatial/temporal model for predicting snowfall across the Unite
 
 A simulation that attempts to answer this question: If you lose someone, is it better if both people search for each other or if one searches and the other stays still? The experiment, variable conditions, and results are presented here.
 
-<a href="Lost_At_SixFlags.ipynb">Lost At Six Flags</a>
-<a href="Lost_At_SixFlags.html">Lost At Six Flags</a> 
+<a href="Lost_At_SixFlags.ipynb">Notebook</a>
+<a href="Lost_At_SixFlags.html">HTML Form</a>
+<a href="Lost_At_SixFlags.pdf">PDF Form</a> 
 
 
 ### "WakeApp"
