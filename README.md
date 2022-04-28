@@ -12,13 +12,10 @@ A breakdown of a spatial/temporal model for predicting snowfall across the Unite
 
 ### "Lost at Six Flags"
 
-Stay tuned! I'm currently working on an a simulation that attempts to answer this question: If you lose someone, is it better if both people search for each other or if one searches and the other stays still? The experiment, variable conditions, and results are presented here.
+A simulation that attempts to answer this question: If you lose someone, is it better if both people search for each other or if one searches and the other stays still? The experiment, variable conditions, and results are presented here.
 
-### "2017 Education Spending in the State of California"
+<a href="Lost_at_SixFlags.html">Lost At Six Flags</a> 
 
-The link below is to a class presentation I contributed to in 2017, looking at public school construction projects. I hope you find it valuable! 
-
-<a href="Final_Presentation.html">141B Project</a> 
 
 ### "WakeApp"
 
@@ -27,6 +24,12 @@ Our winning entry in the 2022 ITC Transportation hackathon, an app that alerts d
 <a href="https://github.com/Rtutorials/WakeApp-Backend">Github</a> 
 <a href="https://youtu.be/fTslVKN8JVU">Video</a> 
 
+
+### "2017 Education Spending in the State of California"
+
+The link below is to a class presentation I contributed to in 2017, looking at public school construction projects. I hope you find it valuable! 
+
+<a href="Final_Presentation.html">141B Project</a> 
 
 ### Support or Contact
  If you want to contact me (or employ me!), you can reach me at bhendel 'at' ucdavis.edu. 
