@@ -20,9 +20,9 @@ A simulation that attempts to answer this question: If you lose someone, is it b
 
 <a href="Lost_At_SixFlags.ipynb">Notebook</a>
 <a href="Lost_At_SixFlags.html">HTML Form</a>
-<a href="Lost_At_SixFlags.pdf">PDF Form</a> 
+<a href="Lost_At_SixFlags.pdf">PDF</a> 
 
-<img src="thumbnail2.png" width=300 height=300>
+<img src="thumbnail2.png" width=300 height=300 align="middle">
 
 ### "WakeApp"
 
@@ -31,13 +31,24 @@ Our winning entry in the 2022 ITC Transportation hackathon, an app that alerts d
 <a href="https://github.com/Rtutorials/WakeApp-Backend">Github</a> 
 <a href="https://youtu.be/fTslVKN8JVU">Video</a> 
 
-<img src="thumbnail3.png" width=300 height=300>
+<img src="thumbnail3.png" width=300 height=300 align="bottom">
 
 ### "2017 Education Spending in the State of California"
 
 The link below is to a class presentation I contributed to in 2017, looking at public school construction projects. I hope you find it valuable! 
 
 <a href="Final_Presentation.html">141B Project</a> 
+
+### "Wave Your Hand to Control Your Device: Creatiion and Feasibility Testing OS Hand Gesture Control"
+
+This is a project report for ISYE 6740:Computational Data Analysis as part of Georgia Tech's OMSA Master's program. I used computer vision and Convolutional Neural Networks to create potentially useful automation software through webcam hand gestures connected to scripts and automation software. Several OS functions like navigating windows, controlling settings, editing text, and even controlling MIDI musical instruments
+
+<a href="HandGestureControlProject.pdf">PDF</a> 
+
+
+
+
+
 
 ### Support or Contact
  If you want to contact me (or employ me!), you can reach me at bhendel 'at' ucdavis.edu. 
