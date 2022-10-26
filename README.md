@@ -2,7 +2,7 @@
 
 To whom it may concern,
 
-I am a young professional who specializes in the intersection of data science and geography. I have been developing skills in experiences in R, Python, ArcGIS, and statistical modeling, and this page will be used to house projects both exploratory and educational. My projects for consulting, government, and hi-tech are not public due to confidentiality reasons.
+I am a young professional who specializes in the intersection of data science and geography. I have been developing skills in experiences in R, Python, SQL, ArcGIS, and statistical modeling, and this page will be used to house projects both exploratory and educational. My projects for consulting, government, and hi-tech are not public for confidentiality reasons.
 
 ### "Snowdown Showdown"
 
@@ -34,6 +34,16 @@ Our winning entry in the 2022 ITC Transportation hackathon, an app that alerts d
 <img src="thumbnail3.png" width=200 height=200 align="bottom">
 
 
+### "Placer Stop N' Shop Customer Analysis"
+
+A short breakdown of Stop N' Shop physical locations and consumer trends based on question prompts. The data is explored with a focus on metrics of customer loyalty.
+
+
+<a href="Placer.ipynb">Notebook</a>
+<a href="Placer.pdf">PDF</a> 
+<img src="thumbnail6.png" width=200 height=200 align="bottom">
+
+
 ### "Wave Your Hand to Control Your Device: Creatiion and Feasibility Testing OS Hand Gesture Control"
 
 This is a project report for ISYE 6740:Computational Data Analysis as part of Georgia Tech's OMSA Master's program. I used computer vision and Convolutional Neural Networks to create potentially useful automation software through webcam hand gestures connected to scripts and automation software. Several OS functions like navigating windows, controlling settings, editing text, and even controlling MIDI musical instruments
@@ -41,6 +51,8 @@ This is a project report for ISYE 6740:Computational Data Analysis as part of Ge
 <a href="HandGestureControlProject.pdf">PDF</a> 
 
 [![Watch the video](https://raw.githubusercontent.com/Rtutorials/Sta141BH/master/thumbnail5.png)](https://www.youtube.com/watch?v=urhchWXmdgU)
+
+
 
 
 
