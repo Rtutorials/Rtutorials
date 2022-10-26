@@ -45,6 +45,8 @@ This is a project report for ISYE 6740:Computational Data Analysis as part of Ge
 
 <a href="HandGestureControlProject.pdf">PDF</a> 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=urhchWXmdgU)
+
 
 
 
