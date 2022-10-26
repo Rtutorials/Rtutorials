@@ -6,11 +6,13 @@ I am a young professional who specializes in the intersection of data science an
 
 ### "Snowdown Showdown"
 
-<a href="Snowdown Showdown.pdf">Snowdown Showdown</a> 
 
 <img src="thumbnail1.png" width=300 height=300>
 
 A breakdown of a spatial/temporal model for predicting snowfall across the United States as part of the Snowcast Showdown Driven Data competition.
+
+<a href="Snowdown Showdown.pdf">Snowdown Showdown</a>
+
 
 ### "Lost at Six Flags"
 
@@ -19,6 +21,7 @@ A simulation that attempts to answer this question: If you lose someone, is it b
 <a href="Lost_At_SixFlags.ipynb">Notebook</a>
 <a href="Lost_At_SixFlags.html">HTML Form</a>
 <a href="Lost_At_SixFlags.pdf">PDF Form</a> 
+
 <img src="thumbnail2.png" width=300 height=300>
 
 ### "WakeApp"
@@ -27,6 +30,7 @@ Our winning entry in the 2022 ITC Transportation hackathon, an app that alerts d
 
 <a href="https://github.com/Rtutorials/WakeApp-Backend">Github</a> 
 <a href="https://youtu.be/fTslVKN8JVU">Video</a> 
+
 <img src="thumbnail3.png" width=300 height=300>
 
 ### "2017 Education Spending in the State of California"
