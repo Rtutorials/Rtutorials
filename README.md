@@ -7,7 +7,7 @@ I am a young professional who specializes in the intersection of data science an
 ### "Snowdown Showdown"
 
 
-<img src="thumbnail1.png" width=300 height=300>
+<img src="thumbnail1.png" width=250 height=250>
 
 A breakdown of a spatial/temporal model for predicting snowfall across the United States as part of the Snowcast Showdown Driven Data competition.
 
@@ -22,7 +22,7 @@ A simulation that attempts to answer this question: If you lose someone, is it b
 <a href="Lost_At_SixFlags.html">HTML Form</a>
 <a href="Lost_At_SixFlags.pdf">PDF</a> 
 
-<img src="thumbnail2.png" width=300 height=300 align="middle">
+<img src="thumbnail2.png" width=200 height=200 align="middle">
 
 ### "WakeApp"
 
@@ -31,13 +31,8 @@ Our winning entry in the 2022 ITC Transportation hackathon, an app that alerts d
 <a href="https://github.com/Rtutorials/WakeApp-Backend">Github</a> 
 <a href="https://youtu.be/fTslVKN8JVU">Video</a> 
 
-<img src="thumbnail3.png" width=300 height=300 align="bottom">
+<img src="thumbnail3.png" width=200 height=200 align="bottom">
 
-### "2017 Education Spending in the State of California"
-
-The link below is to a class presentation I contributed to in 2017, looking at public school construction projects. I hope you find it valuable! 
-
-<a href="Final_Presentation.html">141B Project</a> 
 
 ### "Wave Your Hand to Control Your Device: Creatiion and Feasibility Testing OS Hand Gesture Control"
 
@@ -49,9 +44,6 @@ This is a project report for ISYE 6740:Computational Data Analysis as part of Ge
 
 
 
-
-
-
-### Support or Contact
+## Support or Contact
  If you want to contact me (or employ me!), you can reach me at bhendel 'at' ucdavis.edu. 
  
