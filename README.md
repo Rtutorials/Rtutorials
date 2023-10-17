@@ -58,4 +58,4 @@ This is a project report for ISYE 6740:Computational Data Analysis as part of Ge
 
 
 ## Support or Contact
- If you want to contact me (or employ me!), you can reach me at bhendel 'at' ucdavis.edu. 
+ If you want to contact me (or employ me!), you can reach me at bhendelmail 'at' gmail.com. 
