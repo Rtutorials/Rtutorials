@@ -1,10 +1,10 @@
 ## Welcome to Ben Hendel's Data Science Page
 
-To whom it may concern,
+To whom it may concern, 
 
 I am a young professional who specializes in the intersection of data science and geography. I have been developing skills in experiences in R, Python, SQL, ArcGIS, and statistical modeling, and this page will be used to house projects both exploratory and educational. My projects for consulting, government, and hi-tech are not public for confidentiality reasons.
 
-### "Snowdown Showdown"
+### "Snowdown Showdown" 
 
 
 <img src="thumbnail1.png" width=250 height=250>
