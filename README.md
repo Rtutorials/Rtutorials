@@ -45,7 +45,7 @@ A short breakdown of Stop N' Shop physical locations and consumer trends based o
 <img src="thumbnail6.png" width=270 height=270 align="middle">
 
 
-### "Wave Your Hand to Control Your Device: Creatiion and Feasibility Testing OS Hand Gesture Control"
+### "Wave Your Hand to Control Your Device: Creation and Feasibility Testing OS Hand Gesture Control"
 
 This is a project report for ISYE 6740:Computational Data Analysis as part of Georgia Tech's OMSA Master's program. I used computer vision and Convolutional Neural Networks to create potentially useful automation software through webcam hand gestures connected to scripts and automation software. Several OS functions like navigating windows, controlling settings, editing text, and even controlling MIDI musical instruments
 
