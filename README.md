@@ -58,10 +58,10 @@ This is a project report for ISYE 6740:Computational Data Analysis as part of Ge
 
 I always wondered if delivery drivers ever handed off deliveries each to each other if they were headed to the same destination. This project created a simulation of drivers, customers, restaurants, and routes, all corresponding to real locations within the city of Toulouse, France. We let the order queuing system run and deliver simulated orders and compared total travel time and distance to our handoff-enabled simulation. With handoffs, if two drivers crossed paths and happened to be going to nearly the same location (within a distance threshold), then one driver would give his delivery to the other, freeing him to deliver other orders and supposedly saving time and gas. Is this novel idea feasible? Watch our brief video below!
 
-<a width="420" height="345" src="https://www.youtube.com/watch?v=y78mOG4ni5g">Video</a>
+<a href="https://www.youtube.com/watch?v=y78mOG4ni5g">Video</a>
 
 
-[![Watch the video](https://raw.githubusercontent.com/Rtutorials/Sta141BH/master/thumbnail7.png)](https://www.youtube.com/watch?v=y78mOG4ni5g)](https://www.youtube.com/watch?v=y78mOG4ni5g))
+[![Watch the video](https://raw.githubusercontent.com/Rtutorials/Sta141BH/master/thumbnail7.png)](https://www.youtube.com/watch?v=y78mOG4ni5g)
 
 
 
