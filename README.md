@@ -61,7 +61,7 @@ I always wondered if delivery drivers ever handed off deliveries each to each ot
 <a href="https://www.youtube.com/watch?v=y78mOG4ni5g">Video</a>
 
 
-[![Watch the video](https://raw.githubusercontent.com/Rtutorials/Sta141BH/master/thumbnail7.png)](https://www.youtube.com/watch?v=y78mOG4ni5g)
+<img src="thumbnail7.png" width=270 height=270 align="middle">
 
 
 
