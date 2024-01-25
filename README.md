@@ -60,10 +60,10 @@ I always wondered if delivery drivers ever handed off deliveries each to each ot
 
 <a href="https://www.youtube.com/watch?v=y78mOG4ni5g">Video</a>
 <a href="Lost_At_SixFlags.pdf">PDF</a> 
-<a href="Lost_At_SixFlags.pdf">Code</a> 
+[Code](https://github.com/Rtutorials/DeliverySimulation)
 
 
-<img src="thumbnail7.png" width=270 height=270 align="middle">
+<img src="thumbnail7.png" width=400 height=300 align="middle">
 
 
 
