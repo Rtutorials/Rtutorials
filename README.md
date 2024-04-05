@@ -72,3 +72,5 @@ I always wondered if delivery drivers ever handed off deliveries each to each ot
  If you want to contact me (or employ me!), you can reach me at bhendelmail 'at' gmail.com. 
 
  ![](https://hit.yhype.me/github/profile?user_id=19825656)
+
+ [![HitCount](https://hits.dwyl.com/Rtutorials/Rtutorials/Rtutorials.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Rtutorials/Rtutorials/Rtutorials)
