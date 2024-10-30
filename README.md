@@ -12,6 +12,7 @@ I am a young professional who specializes in the intersection of data science an
 A breakdown of a spatial/temporal model for predicting snowfall across the United States as part of the Snowcast Showdown Driven Data competition.
 
 <a href="Snowdown Showdown.pdf">Snowdown Showdown</a>
+[Github](https://github.com/AvivTahar/Snowcast-Showdown)
 
 
 ### "Lost at Six Flags"
